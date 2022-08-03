@@ -1,14 +1,13 @@
 {
   "files": {
     "main.css": "/static/css/main.d25bcb48.css",
-    "main.js": "/static/js/main.ca249d5d.js",
-    "static/media/college.jpg": "/static/media/college.72704a665fa054df7fa9.jpg",
+    "main.js": "/static/js/main.38f686c4.js",
     "index.html": "/index.html",
     "main.d25bcb48.css.map": "/static/css/main.d25bcb48.css.map",
-    "main.ca249d5d.js.map": "/static/js/main.ca249d5d.js.map"
+    "main.38f686c4.js.map": "/static/js/main.38f686c4.js.map"
   },
   "entrypoints": [
     "static/css/main.d25bcb48.css",
-    "static/js/main.ca249d5d.js"
+    "static/js/main.38f686c4.js"
   ]
 }
